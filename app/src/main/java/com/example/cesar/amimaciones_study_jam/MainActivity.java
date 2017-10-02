@@ -24,9 +24,7 @@ public class MainActivity extends AppCompatActivity {
         imagen1 = (ImageView) findViewById(R.id.minion);
         imagen2 = (ImageView) findViewById(R.id.minion2);
 
-        public void zoomin(View v){
-            animacion = AnimationUtils.loadAnimation(getApplicationContext()R.id.)
-        }
+
 
     }
 }
